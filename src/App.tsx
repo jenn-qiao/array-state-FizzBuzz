@@ -1,13 +1,12 @@
-import MainContent from "./components/MainContent";
-import PageHeader from "./components/PageHeader";
-import PageFooter from "./components/PageFooter"
+import FizzBuzz from "./components/FizzBuzz";
+
 
 function App(): JSX.Element {
   return (
     <>
-      <PageHeader />
-      <MainContent />
-      <PageFooter />
+     
+      <FizzBuzz />
+    
     </>
   );
 }
