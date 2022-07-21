@@ -1,4 +1,4 @@
-import FizzBuzz from "./components/FizzBuzz";
+import FizzBuzz from "./FizzBuzz";
 
 
 function App(): JSX.Element {
